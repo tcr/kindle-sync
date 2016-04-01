@@ -1,0 +1,22 @@
+{
+  "name": "kindle-sync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "kindle-sync": "index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^0.12.0",
+    "md5-file": "^2.0.4",
+    "nodemailer": "^2.3.0",
+    "uuid": "^2.0.1",
+    "yesno": "0.0.1"
+  }
+}
